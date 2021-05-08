@@ -141,6 +141,6 @@ for comp in companies:
     #     cResults.append(result["data-result"])
     # cResults = set(cResults)
     # print(len(cResults))
-
+#git test
 browser.close()
 
